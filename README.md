@@ -84,11 +84,9 @@ tsconfig*.json
 
 ## Screenshots
 
-> Replace these paths with real images from your project structure when available.
-
-![DaBubble – Login Screen](documentation/screenshots/login-page.png)
-![DaBubble – Channel View](documentation/screenshots/channel-view.png)
-![DaBubble – New Message Dialog](documentation/screenshots/new-message.png)
+![DaBubble – Login Screen](src/assets/img/screenshots/login-page.png)
+![DaBubble – Channel View](src/assets/img/screenshots/channel-view.png)
+![DaBubble – New Message Dialog](src/assets/img/screenshots/thread-page.png)
 
 The login screen demonstrates the clean, modern UI with options for email, Google sign-in, and guest login.
 
